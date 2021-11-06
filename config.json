@@ -2,5 +2,5 @@
 	"ip":"myp3.aternos.me",
 	"port": "58310",
 	"name": "abbu_jaan",
-	"auto-night-skip":"true"
+	"auto-night-skip":"false"
 }
